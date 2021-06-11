@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://impyy10.github.io/csb-gt9t5/static/css/main.5b00561a.chunk.css",
+    "main.js": "https://impyy10.github.io/csb-gt9t5/static/js/main.75047b2f.chunk.js",
+    "main.js.map": "https://impyy10.github.io/csb-gt9t5/static/js/main.75047b2f.chunk.js.map",
+    "runtime-main.js": "https://impyy10.github.io/csb-gt9t5/static/js/runtime-main.a111d0de.js",
+    "runtime-main.js.map": "https://impyy10.github.io/csb-gt9t5/static/js/runtime-main.a111d0de.js.map",
+    "static/js/2.3e079c9f.chunk.js": "https://impyy10.github.io/csb-gt9t5/static/js/2.3e079c9f.chunk.js",
+    "static/js/2.3e079c9f.chunk.js.map": "https://impyy10.github.io/csb-gt9t5/static/js/2.3e079c9f.chunk.js.map",
+    "index.html": "https://impyy10.github.io/csb-gt9t5/index.html",
+    "static/css/main.5b00561a.chunk.css.map": "https://impyy10.github.io/csb-gt9t5/static/css/main.5b00561a.chunk.css.map",
+    "static/js/2.3e079c9f.chunk.js.LICENSE.txt": "https://impyy10.github.io/csb-gt9t5/static/js/2.3e079c9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a111d0de.js",
+    "static/js/2.3e079c9f.chunk.js",
+    "static/css/main.5b00561a.chunk.css",
+    "static/js/main.75047b2f.chunk.js"
+  ]
+}
